@@ -1,2 +1,4 @@
 # LeetCode 
-LeetCode with Jupyter Notebook
+LeetCode Problems 
+Keep Working.... These Repo will be updated on weekly basis 
+
